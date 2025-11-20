@@ -391,6 +391,7 @@ git fsck
 ```bash
 git prune
 ```
+### Download PDF: [Click Here](https://github.com/xemishra/git-commands/blob/main/gitCommands.pdf) 
 
 ### Contact: [Click Here](https://mishraxe.t.me)
 
